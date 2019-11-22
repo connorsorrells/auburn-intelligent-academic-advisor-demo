@@ -1,0 +1,44 @@
+@import url('screen.css');
+
+/*Courseleaf Controls*/
+#pw_toolbar,
+#pw_toolbar_toggle,
+#pw_statusbar,
+#sb_publish_bubble_bottom,
+#warningwin,
+#loadingwin,
+.lfeditable,
+.lfjsbubble {
+	display: none;
+}
+
+/*Tabs*/
+#tabs {
+	display: none !important;
+}
+.tab_content {
+	display: block !important;
+}
+
+
+.accessible,
+#header,
+#navigation,
+#footer,
+#sidebar,
+#print-button,
+#search,
+a#totop,
+#breadcrumb,
+#sidebar-nav-mobile,
+#content ul.letternav,.gcs-pagination {
+	display: none !important;
+}
+
+#left-col,
+#right-col {
+	margin: 0;
+	float: none;
+	width: auto;
+	clear: both;
+}

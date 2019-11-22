@@ -1,0 +1,6 @@
+---
+applications:
+- name: auburn-intelligent-academic-advisor-demo
+  command: npm start
+  path: .
+  memory: 512M
