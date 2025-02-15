@@ -48,7 +48,7 @@
     "eslint-plugin-import": "^2.18.2",
     "eslint-plugin-jsx-a11y": "^6.2.3",
     "eslint-plugin-react": "^7.16.0",
-    "mocha": "^10.2.0",
+    "mocha": "^10.8.2",
     "phantomjs-prebuilt": "^2.1.16",
     "supertest": "^4.0.2"
   },
